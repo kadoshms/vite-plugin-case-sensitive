@@ -1,0 +1,10 @@
+{
+  "name": "vite-plugin-case-sensitive",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": ["vite-plugin"],
+  "devDependencies": {
+    "vite": "^4.4.3"
+  }
+}
